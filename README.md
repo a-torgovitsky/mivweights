@@ -1,9 +1,10 @@
-# mivweights
+# mtw2020mc
+Repo: https://github.com/a-torgovitsky/mtw2020mc
 
 This package contains the code for the Monte Carlo simulations in "The Causal Interpretation of Two-Stage Least Squares with Multiple Instrumental Variables" by Mogstad, Torgovitsky, and Walters.
 
 The package is meant to be in source state, not built or installed.
-Obtain the files (e.g. clone this repo) then load the package with:
+Obtain the files (e.g. clone the repo) then load the package with:
 ```r
 devtools::load_all()
 ```
