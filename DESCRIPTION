@@ -23,3 +23,5 @@ Imports:
     tikzDevice
 Depends:
     tidyverse (>= 1.3.0)
+Suggests: 
+    future
